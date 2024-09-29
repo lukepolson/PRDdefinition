@@ -4,6 +4,7 @@ cpp/generated/
 cpp/build/
 
 python/prd/
+python/prd_polson_test/
 **/__pycache__/
 python/dist/
 python/prd.egg-info/
