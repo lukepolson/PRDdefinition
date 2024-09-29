@@ -46,6 +46,12 @@ jobs:
           cd model
           yardl generate
 
+      - name: Keep model in directory but as untracked
+        run: |
+          cd model
+          git add -f prd/*
+          git reset prd/*
+
       - name: Python
         run: |
           cd python
