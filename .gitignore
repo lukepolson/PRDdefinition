@@ -5,6 +5,8 @@ cpp/build/
 
 python/prd/
 **/__pycache__/
+python/dist/
+python/prd.egg-info/
 
 # Common editor backups
 ~$*

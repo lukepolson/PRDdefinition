@@ -50,7 +50,7 @@ jobs:
         run: |
           cd python
           git add -f prd/*
-          git reset prd/*
+          git commit -m
 
       - name: Python
         run: |
