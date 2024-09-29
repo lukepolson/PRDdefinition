@@ -15,4 +15,4 @@ ExamInformation: !record
     institution: Institution
     protocol: string?
     startOfAcquisition: datetime?
-    testAttribute: string?
+    testAttributes: string?
