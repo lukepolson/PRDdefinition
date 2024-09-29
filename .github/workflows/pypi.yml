@@ -39,7 +39,7 @@ jobs:
 
       - name: Run yardl
         run: |
-          cd models
+          cd model
           yardle generate
 
       - name: Publish to TestPyPI
