@@ -48,7 +48,7 @@ jobs:
 
       - name: Keep model in directory but as untracked
         run: |
-          cd model
+          cd python
           git add -f prd/*
           git reset prd/*
 
