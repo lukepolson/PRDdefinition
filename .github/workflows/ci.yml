@@ -58,3 +58,4 @@ jobs:
           ninja
           ./prd_generator test.h5
           ./prd_analysis test.h5
+
