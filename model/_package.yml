@@ -1,4 +1,4 @@
-namespace: PrdPolsonTest
+namespace: Prd
 
 cpp:
   sourcesOutputDir: ../cpp/generated
